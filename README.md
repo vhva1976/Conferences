@@ -12,4 +12,12 @@ List of activities for dissemination during the Phd studies
     
 ### Contact
 
-Coming soon
+Victor Valencia
+Citizen of the world
+Phd student
+Department of Environmental Science
+Aarhus University
+Roskilde
+Denmark
+
+victor.valencia@envs.au.dk
