@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Dissemination activities
 
-Dissemination activities
+List of activities for dissemination during the Phd studies
 
-### Markdown
+### Conferences
 
-Urban Tansitions
+1.- Urban Tansitions 2018
+2.- Harmo19
 
 ```markdown
 Syntax highlighted code block
