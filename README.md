@@ -25,7 +25,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](https://github.com/vhva1976/conferences/blob/master/poster_VictorValencia_web.pdf)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Poster Flavored Markdown](https://github.com/vhva1976/conferences/blob/master/poster_VictorValencia_web.pdf).
 
 ### Jekyll Themes
 
